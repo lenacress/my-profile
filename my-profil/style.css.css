@@ -1,0 +1,113 @@
+body {
+	background: rgb(255, 248, 237);
+
+}
+.img-circle {
+	border-radius: 20%;
+	border: 10px;
+	border-color: white;
+
+}
+
+h2 {
+	color: #655DAA;
+
+}
+
+a {
+	font-weight: 900;
+	text-decoration: none;
+	color: #7743DB;
+	transition: color 0.4s ease;
+}
+
+a:hover {
+	color: #C3ACD0;
+
+}
+
+p {
+	color: #655DAA;
+	text-justify: center;
+}
+
+.first{
+	box-shadow: 8px 8px 20px lightgrey;
+	color: #6d36d6;
+	font-size: 30px;
+}
+
+.btn-blue{
+	background: #7743DB ;
+	color: rgb(247, 234, 218);
+	padding: 10px 20px;
+	border-radius: 10px;
+
+}
+
+.btn-blue:hover{
+	background:  rgb(247, 234, 218);
+	color: #7743DB;
+}
+div {
+	background: rgb(247, 234, 218) ;
+	padding: 20px;
+	margin: 50px;
+	border-radius: 15px;
+	box-shadow: 1px 1px 5px lightgrey;
+	text-align: center;
+}
+
+h1 {
+	letter-spacing: 3px;
+	text-transform: uppercase;
+
+}
+
+h2 {
+	color: #655DAA;
+
+}
+
+a {
+	font-weight: 900;
+	text-decoration: none;
+	color: #7743DB;
+	transition: color 0.4s ease;
+}
+
+a:hover {
+	color: #C3ACD0;
+
+}
+
+p {
+	color: #655DAA;
+	text-justify: center;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline i {
+	font-size: 50px;
+	transition: color 0.2s ease;
+	color: #969696;
+}
+
+.list-inline i:hover {
+	background: rgb(247, 234, 218);
+	color: black;
+}
+
+
+
+
